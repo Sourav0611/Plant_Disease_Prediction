@@ -1,4 +1,5 @@
 Classifies plant diseases from images using a CNN-based deep learning model. 
+
   – Data Processing: Extracts and organizes the plant disease dataset; preprocesses images for training and validation.  
   – Model Training: Builds and trains a deep learning convolutional neural network (CNN) to classify images of plant
     diseases.
